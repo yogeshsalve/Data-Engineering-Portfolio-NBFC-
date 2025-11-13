@@ -1,4 +1,4 @@
-# 🧠 Data Engineering Portfolio (Banking/NBFC Domain)
+# 🧠 Talend Data Engineering Portfolio (Banking/NBFC Domain)
 
 This repository lists my end-to-end Data Engineering projects focused on the financial domain.
 
